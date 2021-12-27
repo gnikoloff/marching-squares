@@ -1,6 +1,14 @@
 {
   "name": "marching-squares",
   "version": "0.0.0",
+  "author": {
+    "email": "nikoloffgeorgi@gmail.com",
+    "name": "Georgi Nikolov",
+    "url": "https://archive.georgi-nikolov.com/"
+  },
+  "keywords": [
+    "canvas2d", "metaballs", "marching squares"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
