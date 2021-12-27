@@ -1,6 +1,5 @@
 export default {
   build: {
-    outDir: 'docs',
-    assetsDir: '.'
+    outDir: 'docs'
   }
 }
